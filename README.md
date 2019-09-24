@@ -4,7 +4,7 @@
 - Dicas de githun
 
 ## Links
- - [Computação I DCC UFRJ][1]
+ - [Guides Github][1]
 
 
   [1]: https://guides.github.com/
