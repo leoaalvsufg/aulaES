@@ -16,19 +16,28 @@
 ##### Atividades para a aula do dia 25/09/2019 
 
 - [x] Vir com um dominio pronto para usar **(ideal)**
-- [ ] Iremos acessar uma nuvem [aws]
-- [ ] apontar dns para nosso servidor
-- [ ] publicar domínio
-- [ ] implementar um serviço no nosso domínio.
+- [x] Iremos acessar uma nuvem [aws]
+- [x] apontar dns para nosso servidor
+- [x] publicar domínio
+- [x] implementar um serviço no nosso domínio.
+- [x] implementar uma nuvem no owncloud.
+- [x] implementar um apache na pasta html.
 
 
 ## Links
  - [Guides Github][1]
  - [Markdown][2]
-
+ - [aws][3]
+ - [alicloud][4]
+ - [mobaxterm][5]
 
   [1]: https://guides.github.com/
   [2]: https://markdown-here.com/index.html
+  [3]: http://aws.amazon.com
+  [4]: http://alicloud.com
+  [5]: https://mobaxterm.mobatek.net/download.html
+
+
   
   ## License
 
