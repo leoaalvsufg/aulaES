@@ -24,6 +24,14 @@
 - [x] implementar um apache na pasta html.
 
 
+##### Atividades para a aula do dia 30/09/2019 
+- [ ] Github
+- [ ] Ferramentas de programação usuais
+- [ ] Decisões estratégicas de desenvolvimento de um projeto
+- [ ] APIs
+- [ ] Prática de projeto
+
+
 ## Links
  - [Guides Github][1]
  - [Markdown][2]
